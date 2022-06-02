@@ -1,0 +1,16 @@
+﻿[
+  {
+    "UserName": "admin",
+    "Email": "admin@test.com",
+    "PhoneNumber": "+375441112233",
+    "PasswordHash": "AQAAAAEAACcQAAAAEBkHIsy5M1cweVhtHsHz+Cm0XiScL1lnfKCTuUJWVxE5v6KvciYLrSbb+odm+LGllw==",
+    "SecurityStamp": "QL43BQKT3IRRVGHJRVRH6UE4YGA66T2H"
+  },
+  {
+    "UserName": "bob",
+    "Email": "bob@test.com",
+    "PhoneNumber": "+375449997755",
+    "PasswordHash": "AQAAAAEAACcQAAAAEDnCb89NxCZZdWadP8glBkqKIWY43ytECXG4p4qGb4VDdTGqAH4su8jVIANdP5UbBw==",
+    "SecurityStamp": "7ZNWSDL34LSKLLVDTLDG3HP775UE63EC"
+  }
+]

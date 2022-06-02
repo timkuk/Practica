@@ -1,0 +1,12 @@
+﻿[
+  {
+    "Id": "51ac60dd-c154-451c-98c4-5e16997b4abd",
+    "Name": "Гомель",
+    "CountryId": "45fa9ef8-cf8e-40f9-be39-fddbb755ddcd"
+  },
+  {
+    "Id": "60104729-3998-40fa-9cc7-30c703e4c975",
+    "Name": "Минск",
+    "CountryId": "45fa9ef8-cf8e-40f9-be39-fddbb755ddcd"
+  }
+]
